@@ -9,7 +9,7 @@ I'm a Software Engineer. I am currently running Backend Engineering program with
 
 - 😊 Pronouns: he/him
 - 💡 Fun fact: I love football (watching and playing), I also love to brainstorm on special ways to achieve a task..
-- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, Python, Flask, Django, mySQL, SQLite, PostgreSQL, REST API.
+- 🌱 I’m currently learning HTML, CSS, Bootstrap, JavaScript, Python, Flask, Django, SQLite, PostgreSQL, REST API.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Developer, Python Developer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing adeniyiboladale@yahoo.com.
