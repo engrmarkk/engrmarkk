@@ -11,7 +11,7 @@ As a recent graduate, I have a strong background in Software Engineering. During
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: he/him
-- 💡 Fun fact: I love football (watching and playing), and I enjoy brainstorming creative solutions to problems.
+- 💡 Fun fact: I love football (watching and playing), I enjoy brainstorming creative solutions to problems, and also enjoy debugging 😊.
 - 🌱 I recently graduated from AltSchool Africa's Backend Engineering program and have gained skills in HTML, CSS, Bootstrap, JavaScript, Python, Flask, Django, SQLite, PostgreSQL, and REST API.
 - 😊 I’m currently seeking opportunities to contribute to open source projects, participate in hackathons, and gain entry-level experience in software development.
 - 💼 Job interests: Junior Software Developer, Python Developer (Intern or Entry-level).
