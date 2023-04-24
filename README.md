@@ -18,6 +18,22 @@ As a recent graduate, I have a strong background in Software Engineering. During
 - 📫 You can [view my resume](https://drive.google.com/file/d/14UTtidT2d4g2tfgbDGxcMAHZKGiL6ho5/view?usp=share_link) and contact me at adeniyiboladale@yahoo.com.
 
 ---
+#### Tech Stacks:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrmarkk&show_icons=true&include_all_commits=true&hide_border=true" alt="Olanrewaju's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmarkk&langs_count=8&layout=compact&hide_border=true" alt="Olanrewaju's GitHub stats" /> |
 | ------------- | ------------- |
