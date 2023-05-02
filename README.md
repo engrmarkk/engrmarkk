@@ -15,7 +15,7 @@ As a recent graduate, I have a strong background in Software Engineering. During
 - 🌱 I recently graduated from AltSchool Africa's Backend Engineering program and have gained skills in HTML, CSS, Bootstrap, JavaScript, Python, Flask, Django, SQLite, PostgreSQL, and REST API.
 - 😊 I’m currently seeking opportunities to contribute to open source projects, participate in hackathons, and gain entry-level experience in software development.
 - 💼 Job interests: Junior Software Developer, Python Developer (Intern or Entry-level).
-- 📫 You can [view my resume](https://drive.google.com/drive/folders/1veDMWAfumb8LOAz-Pql1OUDm2ydU23uW?usp=share_link) and contact me at adeniyiboladale@yahoo.com.
+- 📫 You can [view my resume](#) and contact me at adeniyiboladale@yahoo.com.
 
 ---
 #### Tech Stacks:
