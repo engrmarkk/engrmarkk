@@ -15,7 +15,7 @@ An experienced software developer with a passion for problem-solving and innovat
 
 - 😊 Pronouns: he/him
 - 💡 Fun fact: I love football (watching and playing), I enjoy brainstorming creative solutions to problems, and also enjoy debugging 😊.
-- 🌱 I recently graduated from AltSchool Africa's Backend Engineering program and have gained skills in HTML, CSS, Bootstrap, JavaScript, Python, Flask, Django, SQLite, PostgreSQL, MongoDB, and REST API.
+- 🌱 I graduated from [AltSchool Africa](https://www.altschoolafrica.com/) School of Engineering where I gained hands-on experience in software development.
 - 😊 I'm actively seeking job opportunities to contribute to open source projects, engage in hackathons, and further develop my skills in software development.
 - 💼 Job interests: Software Developer, Python Developer.
 - 📫 You can [view my resume](https://drive.google.com/drive/folders/1vf5Ihmh4_yvz_H4XIiedoEOw42xOM8ar?usp=share_link) and contact me at adeniyiboladale@yahoo.com.
