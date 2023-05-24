@@ -36,6 +36,7 @@ An experienced software developer with a passion for problem-solving and innovat
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=engrmarkk&show_icons=true&include_all_commits=true&hide_border=true" alt="Olanrewaju's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmarkk&langs_count=8&layout=compact&hide_border=true" alt="Olanrewaju's GitHub stats" /> |
