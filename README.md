@@ -39,8 +39,11 @@ An experienced software developer with a passion for problem-solving and innovat
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrmarkk&show_icons=true&include_all_commits=true&hide_border=true" alt="Olanrewaju's GitHub stats" /> <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmarkk&langs_count=8&layout=compact&hide_border=true" alt="Olanrewaju's GitHub stats" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=engrmarkk&show_icons=true&include_all_commits=true&hide_border=true" alt="Olanrewaju's GitHub stats" /> <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmarkk&langs_count=8&layout=compact&hide_border=true" alt="Olanrewaju's GitHub stats" /> -->
+
+## 📊 My Github Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=engrmarkk&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" style="width:100%">
 <br>
 
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
