@@ -40,12 +40,13 @@ An experienced software developer with a passion for problem-solving and innovat
 
 
 ## 📊 My Github Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=engrmarkk&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" style="width:100%">
-<br>
+
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=engrmarkk&show_icons=true&include_all_commits=true&hide_border=true" alt="Olanrewaju's GitHub stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrmarkk&langs_count=8&layout=compact&hide_border=true" alt="Olanrewaju's GitHub stats" />
 </div>
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=engrmarkk&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" style="width:100%">
 <br>
 
 ![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
