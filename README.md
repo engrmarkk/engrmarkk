@@ -1,7 +1,12 @@
 [//]: # (# Hello there, welcome 👋🏾🌹)
 
-![header](https://user-images.githubusercontent.com/100721103/231540299-aecd3ad7-f365-41f4-8d13-8031bb1818a0.png)
-[![Twitter Badge](https://img.shields.io/badge/-@iamengrmark-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/iamengrmark)](https://twitter.com/iamengrmark)
+<!--![header](https://user-images.githubusercontent.com/100721103/231540299-aecd3ad7-f365-41f4-8d13-8031bb1818a0.png) -->
+
+![heder (2)](https://github.com/engrmarkk/engrmarkk/assets/100721103/df275488-d165-4af4-8919-e4e1caeb48b4)
+
+
+[![Twitter Badge](https://img.shields.io/badge/-@iamengrmark-1ca0f1?style=for-the-![Uploading heder (2).png…]()
+badge&logo=twitter&logoColor=white&link=https://twitter.com/iamengrmark)](https://twitter.com/iamengrmark)
 
 <!-- As a recent graduate, I have a strong background in Software Engineering. During my time as a student at [AltSchool Africa](https://www.altschoolafrica.com/), I completed their Backend Engineering program and developed a passion for problem-solving, knowledge-sharing, and accessibility in software development. Throughout my studies and subsequent experiences, I have faced numerous challenges that have strengthened my skills and determination.  -->
 An experienced software developer with a passion for problem-solving and innovation. I thrive on challenges and constantly strive to stay current with industry trends. With a hunger for creating exceptional software and making a meaningful impact. I have worked on a variety of [projects](https://github.com/engrmarkk?tab=repositories), and I am ready to embark on new and exciting projects. Let's join forces and build something extraordinary together!
