@@ -59,4 +59,5 @@ Results-driven software engineer with extensive experience in Python, Flask, and
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=engrmarkk&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FFFFFF" style="width:100%">
 <br>
 
-![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg)
+<!--!![Snake animation](https://github.com/s-shemmee/s-shemmee/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
